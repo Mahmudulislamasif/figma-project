@@ -8,7 +8,7 @@ function App() {
     <div className='App'>
           <div>
           <img src={image2} alt="" className="absolute block md:hidden top-20" />
-          <p className="text-6xl font-bold text-center text-[#131313] mt-32 block md:hidden">How We Work To Powerfull <span className="text-[#5D51F2]">Help You</span> </p>
+          <p className="text-6xl font-bold text-center text-[#131313] mt-32 block md:hidden mx-auto">How We Work To Powerfull <span className="text-[#5D51F2]">Help You</span> </p>
           </div>
           <div className="container mx-auto">
             <div class="grid grid-cols-1 md:grid-cols-2 gap-4">
