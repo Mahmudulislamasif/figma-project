@@ -1,19 +1,19 @@
 import logo from './logo.svg';
 import './App.css';
 import image from'./Assets/Rectangle 5356.png'
-import image2 from './Assets/Vector (2).png'
+import image2 from './Assets/Group 1000004056.png'
 import image3 from './Assets/vector-2.png'
 function App() {
   return (
     <div className='App'>
           <div>
-          <img src={image2} alt="" className="absolute block md:hidden top-20" />
-          <p className="text-6xl font-bold text-center text-[#131313] mt-32 block md:hidden mx-auto">How We Work To Powerfull <span className="text-[#5D51F2]">Help You</span> </p>
+          <img src={image2} alt="" className="absolute block md:hidden top-5 left-10" />
+          <p className="text-3xl font-bold text-[#131313] mx-6 my-11 block md:hidden">How We Work To <br /> Powerfull <span className="text-[#5D51F2]">Help You</span> </p>
           </div>
           <div className="container mx-auto">
             <div class="grid grid-cols-1 md:grid-cols-2 gap-4">
             <div>
-              <img className="pt-32 mx-auto w-11/12" src={image} alt="" />
+              <img className="md:pt-32 mx-auto w-11/12" src={image} alt="" />
             </div>
             
             <div className="relative ml-20">
