@@ -17,9 +17,9 @@ function App() {
             </div>
             
             <div className="relative">
-              <img src={image2} alt="" className="absolute hidden md:block top-28 -left-10" />
+              <img src={image2} alt="" className="absolute hidden md:block top-28 left-6" />
               <img src={image3} alt="" className="absolute -right-20 top-0 hidden md:block" />
-              <p className="text-6xl text-left font-bold text-[#131313] mt-32 hidden md:block">How We Work To Powerfull <span className="text-[#5D51F2]">Help You</span> </p>
+              <p className="text-6xl text-left font-bold text-[#131313] mt-32 hidden md:block ml-16">How We Work To Powerfull <span className="text-[#5D51F2]">Help You</span> </p>
               <ol class="list-decimal ml-6 md:ml-20">
                     <li className='text-left font-medium md:font-medium text-lg  md:text-4xl text-[#
   #131313] mt-20 mb-7 md:mb-10'> Sitemap and user flow
